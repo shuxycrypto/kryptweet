@@ -1,0 +1,5 @@
+tinydb==3.4.0
+ujson==1.35
+click==6.7
+terminaltables==3.1.0
+python_twitter==3.3
